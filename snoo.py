@@ -1,13 +1,4 @@
-"""
-task4.py - base simulation for the FOP PracTest3, Sem 1 2024
 
-Written by : Md. Aaqib Chowdhury
-Student ID : 22046293
-
-Usage:
-
-Versions:
-    - initial version supplied 15/4/24
 """
 import numpy as np
 import matplotlib.pyplot as plt
